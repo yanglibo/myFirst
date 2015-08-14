@@ -26,6 +26,3 @@ function inherit(o){
 }
 
 var f2 = inherit(Object.prototype);
-f2["1"]="12";
-
-console.log(f["1"]);
